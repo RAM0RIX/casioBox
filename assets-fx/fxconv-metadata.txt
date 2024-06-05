@@ -1,0 +1,11 @@
+dragon.png:
+  type: bopti-image
+  name: img_dragon
+
+font.png:
+  type: font
+  charset: print
+  grid.size: 5x7
+  grid.padding: 1
+  proportional: false
+  name: font
